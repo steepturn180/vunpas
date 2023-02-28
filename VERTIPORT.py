@@ -7,10 +7,9 @@ import csv
 
 # read vp info.
 
-#vp_df=pd.read_excel(r"./30_AM_fake.xlsx",index_col=0)
+
 vp_df=pd.read_excel(r"./30_AM.xlsx",index_col=0)
-#vp_df=pd.read_excel(r"C:\Users\Tae Gyeong Yun\OneDrive - 한국항공대학교\바탕 화면\시뮬레이션\vunpas-main\vunpas-main_ver1213\30_AM_fake.xlsx",index_col=0)
-#vp_df=pd.read_excel(r"C:\Users\Tae Gyeong Yun\OneDrive - 한국항공대학교\바탕 화면\시뮬레이션\vunpas-main\vunpas-main_ver1211\30_AM.xlsx",index_col=0)
+
 
 vpdest_temp=[]
 
