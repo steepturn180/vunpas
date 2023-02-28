@@ -12,7 +12,7 @@ You can set design variables that reflect UAM Operator's management strategies s
 So far, output of the simulation consists of status data such as the location and condition of each UAM aircraft and passenger according to time, the passenger's call rejection rate, and the utilization rate of the UAM
 aircraft.
 
-This study is still on going at the Korea Aerospace University. 
+This study is still on going at the Korea Aerospace University ATM(Air Transportation Mobility Lab). 
 
 Debugging and Developing for code is currently in progress, so please give us a lot of feedback and attention. 
 
